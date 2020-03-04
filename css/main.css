@@ -1,0 +1,14 @@
+
+body {
+  background-color: #126;
+}
+
+.bigboi {
+  font-family: Anton;
+  color: rgba(255, 0, 0, 0.5);
+}
+
+.smallboi {
+  font-family: "ZCOOL KuaiLe";
+  color: rgba(255, 255, 255, 0.5);
+}
