@@ -3,13 +3,17 @@ body {
   background-color: #126;
 }
 
+h1 {
+  display: none;
+}
+
 .frame {
   position: relative;
 }
 
 .bigboi {
   font-family: Anton;
-  color: rgba(255, 0, 0, 0.5);
+  color: rgba(255, 0, 0, .5);
 }
 
 .im {
@@ -53,5 +57,5 @@ body {
 
 .smallboi {
   font-family: "ZCOOL KuaiLe";
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, .5);
 }
