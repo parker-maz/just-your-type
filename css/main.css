@@ -3,9 +3,52 @@ body {
   background-color: #126;
 }
 
+.frame {
+  position: relative;
+}
+
 .bigboi {
   font-family: Anton;
   color: rgba(255, 0, 0, 0.5);
+}
+
+.im {
+  position: absolute;
+  top: 2vw;
+  left: 5%;
+}
+
+.just {
+  position: absolute;
+  top: 9vw;
+  left: 28%;
+}
+
+.ahead {
+  position: absolute;
+  top: 16vw;
+  left: 55%;
+}
+
+.of {
+  position: absolute;
+  top: 26vw;
+  left: 85%;
+  transform: rotate(180deg);
+}
+
+.the {
+  position: absolute;
+  top: 40vw;
+  left: 54%;
+  transform: rotate(180deg);
+}
+
+.curve {
+  position: absolute;
+  top: 55vw;
+  left: 15%;
+  transform: rotate(180deg);
 }
 
 .smallboi {
