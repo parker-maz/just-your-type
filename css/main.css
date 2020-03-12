@@ -77,3 +77,58 @@ h1 {
   top: 85vh;
   right: 20%;
 }
+
+.ha {
+  font-family: "Trade Winds";
+  color: rgba(0, 0, 0, .3);
+  z-index: -1;
+}
+
+.ha p:nth-child(1) {
+  position: absolute;
+  top: 8vh;
+  left: 20%;
+  transform: rotate(-20deg);
+}
+
+.ha p:nth-child(2) {
+  position: absolute;
+  top: 10vh;
+  left: 80%;
+  transform: rotate(15deg);
+}
+
+.ha p:nth-child(3) {
+  position: absolute;
+  top: 20vh;
+  left: 45%;
+  transform: rotate(5deg);
+}
+
+.ha p:nth-child(4) {
+  position: absolute;
+  top: 45vh;
+  left: 7%;
+  transform: rotate(7deg);
+}
+
+.ha p:nth-child(5) {
+  position: absolute;
+  top: 35vh;
+  left: 70%;
+  transform: rotate(-20deg);
+}
+
+.ha p:nth-child(6) {
+  position: absolute;
+  top: 70vh;
+  left: 30%;
+  transform: rotate(-15deg);
+}
+
+.ha p:nth-child(7) {
+  position: absolute;
+  top: 75vh;
+  left: 60%;
+  transform: rotate(20deg);
+}
