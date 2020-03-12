@@ -13,49 +13,67 @@ h1 {
 
 .bigboi {
   font-family: Anton;
-  color: rgba(255, 0, 0, .5);
+  color: rgba(200, 0, 0, .75);
 }
 
 .im {
   position: absolute;
-  top: 2vh;
+  top: 5vh;
   left: 5%;
 }
 
 .just {
   position: absolute;
-  top: 9vh;
+  top: 18vh;
   left: 28%;
 }
 
 .ahead {
   position: absolute;
-  top: 16vh;
+  top: 30vh;
   left: 55%;
 }
 
 .of {
   position: absolute;
-  top: 26vh;
+  top: 45vh;
   left: 85%;
   transform: rotate(180deg);
 }
 
 .the {
   position: absolute;
-  top: 40vh;
+  top: 65vh;
   left: 54%;
   transform: rotate(180deg);
 }
 
 .curve {
   position: absolute;
-  top: 55vh;
-  left: 15%;
+  top: 80vh;
+  left: 12%;
   transform: rotate(180deg);
 }
 
 .smallboi {
   font-family: "ZCOOL KuaiLe";
   color: rgba(255, 255, 255, .5);
+}
+
+.p1 {
+  position: absolute;
+  top: 8vh;
+  right: 15%;
+}
+
+.p2 {
+  position: absolute;
+  top: 46vh;
+  left: 12%;
+}
+
+.p3 {
+  position: absolute;
+  top: 85vh;
+  right: 20%;
 }
