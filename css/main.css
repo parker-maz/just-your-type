@@ -18,39 +18,39 @@ h1 {
 
 .im {
   position: absolute;
-  top: 2vw;
+  top: 2vh;
   left: 5%;
 }
 
 .just {
   position: absolute;
-  top: 9vw;
+  top: 9vh;
   left: 28%;
 }
 
 .ahead {
   position: absolute;
-  top: 16vw;
+  top: 16vh;
   left: 55%;
 }
 
 .of {
   position: absolute;
-  top: 26vw;
+  top: 26vh;
   left: 85%;
   transform: rotate(180deg);
 }
 
 .the {
   position: absolute;
-  top: 40vw;
+  top: 40vh;
   left: 54%;
   transform: rotate(180deg);
 }
 
 .curve {
   position: absolute;
-  top: 55vw;
+  top: 55vh;
   left: 15%;
   transform: rotate(180deg);
 }
